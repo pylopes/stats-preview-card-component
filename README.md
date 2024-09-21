@@ -10,7 +10,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Stats preview card component solution]()
+- Live Site URL: [Stats preview card component solution](https://pylopes.github.io/stats-preview-card-component/)
 
 ### Built with
 
